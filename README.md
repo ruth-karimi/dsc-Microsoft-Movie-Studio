@@ -2,10 +2,11 @@
 Author: Ruth Nyakio
 
 ## Overview
-Exploratory data analysis to generate insights for Microsoft executives to reveal opportunities and factors to consider while setting up a new Microsoft Movie studio. Data used from box office. Some of the recommendations to Microsoft include top competitors to consider, best-performing movies with high budgets, and high-performing movies with relatively low budgets
+Exploratory data analysis to generate insights for Microsoft executives to reveal opportunities and factors to consider while setting up a new Microsoft Movie studio. Data used from box office and IMDB. 
+Some of the recommendations to Microsoft include top competitors to consider, best-performing movies with high budgets, and high-performing movies with relatively low budgets
 
 ## Business Problem
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+Microsoft has seen an opportunity in creating original video content and they have decided to create a new movie studio. By doing so they will be able to claim the market share and produce Microsoft original content
 
 ## Data
 * IMDB.title.ratings - Contains details of movie ratings.
@@ -29,7 +30,7 @@ Exploring the top genres by total gross revenue
 Exploring the production budget and top 30 genres
 ![image](https://github.com/ruth-karimi/dsc-project-template/assets/24277899/004fbd7e-5671-4f8b-acea-4f51476053af)
 
-Showing correlation between some of the numerical columns
+Showing a correlation between some of the numerical columns
 ![image](https://github.com/ruth-karimi/dsc-project-template/assets/24277899/5edb336f-4c07-4658-9688-b86b861c0f36)
 
 ## Conclusions
