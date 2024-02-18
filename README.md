@@ -1,13 +1,48 @@
-# Phase 1 Project Templates and Examples
+# Phase 1 Microsoft Movie Studio Project
+Author: Ruth Nyakio
 
-This repo contains templates and examples to help you get started with your Phase 1 Project. Each of these is in a separate branch as explained below.
+## Overview
+Exploratory data analysis to generate insights for Microsoft executives to reveal opportunities and factors to consider while setting up a new Microsoft Movie studio. Data used from box office. Some of the recommendations to Microsoft include top competitors to consider, best-performing movies with high budgets, and high-performing movies with relatively low budgets
 
-- The **template-mvp** branch is the template you should use to for your Phase 1 Project. MVP stands for Minimum Viable Product, but this isn't meant in a negative way - if your project uses this template, it will be functional and accessible.
+## Business Problem
+Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
-- The **example-mvp** branch is an example project using the MVP template.
+## Data
+* IMDB.title.ratings - Contains details of movie ratings.
+* imdb_title_basics - Contains details of writers and directors
+* Tn_movie_budgets - Contains budget and gross revenue information of movies
+* bom_movie_gross - Contains gross revenue of different studios
+and movies
 
-Once you've completed your project using the MVP template, you can improve it using the Above and Beyond (AAB) template if you have time:
+## Methods
+This project uses descriptive analysis, regression analysis, and a lot of data visualizations
+ 
+## Results
+Exploring the number of top studios by the number of movies
+![image](https://github.com/ruth-karimi/dsc-project-template/assets/24277899/5fa1ed97-ec81-4797-8ac3-97c87eee4a51)
+Exploring the number of top studios by the gross revenue
+![image](https://github.com/ruth-karimi/dsc-project-template/assets/24277899/4b0df065-4b2e-4caa-b4ca-61b2f3f100a9)
 
-- The **template-aab** branch is the AAB template to use to keep improving your project.
+Exploring the top genres by total gross revenue
+![image](https://github.com/ruth-karimi/dsc-project-template/assets/24277899/89ced48a-2d8b-4ca7-9c12-8385eed0ce20)
 
-- The **example-aab** branch is an example project using the AAB template.
+Exploring the production budget and top 30 genres
+![image](https://github.com/ruth-karimi/dsc-project-template/assets/24277899/004fbd7e-5671-4f8b-acea-4f51476053af)
+
+Showing correlation between some of the numerical columns
+![image](https://github.com/ruth-karimi/dsc-project-template/assets/24277899/5edb336f-4c07-4658-9688-b86b861c0f36)
+
+## Conclusions
+* Movie rating is not affected by runtime, budget, or gross income
+* Movies with higher budget attract higher gross income
+* Top Studios: IFC Films, Universal, Warner Bros. Pictures, Fox and Magnolia Pictures in terms of number of movies
+* Studios with Highest Gross Revenue: BV, Universal, Warner Bros Pictures, Fox and Sony
+* Highest Gross Revenue: Adventure Animation Comedy, Drama, Documentary, Comedy Animation and Action
+* Highest Production Budget: Drama, Adventure Animation Comedy, Documentary, Comedy and Action Adventure Fantasy
+
+## Recommendations
+* Competitors to consider: IFC Films, Universal, Warner Bros. Pictures, Sony, Fox, Magnolia Pictures and Buena Vista
+* Best performing movies to consider (high budget): Drama, Action Adventure Fantasy, Documentary, Comedy, Horror, Action Adventure Animation, Action Adventure Comedy
+* Movie to consider with relatively low budget but high gross revenue: Horror Mystery Thriller, Family, Adventure, Comedy Romance.
+* Movies created should be 86 minutes long on average
+* To maximise profit Microsoft can produce high-quality and performing movies that require relatively low-budget
