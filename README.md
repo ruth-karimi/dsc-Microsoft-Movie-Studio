@@ -49,7 +49,6 @@ Showing a correlation between some of the numerical columns
 * To maximise profit Microsoft can produce high-quality and performing movies that require relatively low-budget
 
 ## Repository Structure
-
-**** README.md
-**** Ruth_Nyakio_Phase1_Project.pdf
-**** presentation.pdf
+* README.md
+* Ruth_Nyakio_Phase1_Project.pdf
+* presentation.pdf
