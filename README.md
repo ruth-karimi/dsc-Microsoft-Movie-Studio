@@ -47,3 +47,9 @@ Showing a correlation between some of the numerical columns
 * Movie to consider with relatively low budget but high gross revenue: Horror Mystery Thriller, Family, Adventure, Comedy Romance.
 * Movies created should be 86 minutes long on average
 * To maximise profit Microsoft can produce high-quality and performing movies that require relatively low-budget
+
+## Repository Structure
+
+├── README.md
+├── Ruth_Nyakio_Phase1_Project.pdf
+└── presentation.pdf
