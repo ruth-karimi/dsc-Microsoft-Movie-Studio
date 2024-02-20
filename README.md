@@ -53,3 +53,8 @@ Showing a correlation between some of the numerical columns
 ├── README.md
 ├── Ruth_Nyakio_Phase1_Project.pdf
 └── presentation.pdf
+
+├── code
+├── README.md
+├── Animal_Shelter_Needs_Presentation.pdf
+└── animal_shelter_needs_analysis.ipynb
