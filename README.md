@@ -48,6 +48,10 @@ Showing a correlation between some of the numerical columns
 * Movies created should be 86 minutes long on average
 * To maximise profit Microsoft can produce high-quality and performing movies that require relatively low-budget
 
+## Links to project resources
+* Presentation - https://github.com/ruth-karimi/dsc-Microsoft-Movie-Studio/blob/master/presentation.pdf
+* Code - https://github.com/ruth-karimi/dsc-Microsoft-Movie-Studio/blob/master/Ruth_Nyakio_Phase1_Project.pdf
+
 ## Repository Structure
 * README.md
 * Ruth_Nyakio_Phase1_Project.pdf
