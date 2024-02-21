@@ -53,6 +53,7 @@ Showing a correlation between some of the numerical columns
 * Code - https://github.com/ruth-karimi/dsc-Microsoft-Movie-Studio/blob/master/Ruth_Nyakio_Phase1_Project.pdf
 
 ## Repository Structure
-* README.md
-* Ruth_Nyakio_Phase1_Project.pdf
-* presentation.pdf
+
+<img width="296" alt="image" src="https://github.com/ruth-karimi/dsc-Microsoft-Movie-Studio/assets/24277899/aad24614-53a1-486e-974e-275a3338ce25">
+
+
